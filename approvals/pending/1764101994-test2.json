@@ -1,0 +1,25 @@
+{
+  "id": "1764101994-test2",
+  "jiraTicketId": "test2",
+  "submitter": "Ch.Asha Sai Deepika",
+  "files": [
+    {
+      "name": "Masterslide_MX_Pacs_009_001_08_Regulatory Change 2025 Only_workInProgress (6).xlsm",
+      "size": 2032991,
+      "type": "application/vnd.ms-excel.sheet.macroEnabled.12"
+    }
+  ],
+  "branch": "approval/test2",
+  "submittedAt": "2025-11-25T20:19:56.913Z",
+  "status": "pending",
+  "description": "summmma",
+  "approvers": [
+    {
+      "username": "Deepika2002",
+      "status": "pending",
+      "timestamp": null,
+      "comments": null
+    }
+  ],
+  "approvalType": "all"
+}
