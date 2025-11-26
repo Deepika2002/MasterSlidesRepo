@@ -1,0 +1,41 @@
+{
+  "id": "1764181650-TEST-3",
+  "jiraTicketId": "TEST-3",
+  "requestedBy": "Deepika2002",
+  "submitter": "Deepika2002",
+  "approver": "Lourdes-Santhosh",
+  "files": [
+    {
+      "name": "Masterslide_SCT_Pacs_008.001.08_All_Change_Requests.xlsm",
+      "size": 1923522,
+      "type": "application/vnd.ms-excel.sheet.macroEnabled.12",
+      "path": "documents/TEST-3/Masterslide_SCT_Pacs_008.001.08_All_Change_Requests.xlsm",
+      "hasChanges": false
+    }
+  ],
+  "branch": "approval/TEST-3",
+  "submittedAt": "2025-11-26T18:27:33.538Z",
+  "submissionStatus": "pending",
+  "status": "pending",
+  "description": "Testing again",
+  "gitCommitHash": null,
+  "previousCommitHash": null,
+  "changeLog": [],
+  "approvers": [
+    {
+      "username": "Lourdes-Santhosh",
+      "status": "pending",
+      "timestamp": null,
+      "comments": null
+    }
+  ],
+  "approvalType": "all",
+  "approvalDetails": {
+    "approvedBy": null,
+    "approvedAt": null,
+    "rejectedBy": null,
+    "rejectedAt": null,
+    "rejectionReason": null,
+    "comments": null
+  }
+}
