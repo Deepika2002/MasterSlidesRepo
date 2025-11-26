@@ -1,0 +1,25 @@
+{
+  "id": "1764178414-TEST-1234",
+  "jiraTicketId": "TEST-1234",
+  "submitter": "Ch.Asha Sai Deepika",
+  "files": [
+    {
+      "name": "Masterslide_SCT_Pacs_008.001.08_All_Change_Requests.xlsm",
+      "size": 1923522,
+      "type": "application/vnd.ms-excel.sheet.macroEnabled.12"
+    }
+  ],
+  "branch": "approval/TEST-1234",
+  "submittedAt": "2025-11-26T17:33:38.008Z",
+  "status": "pending",
+  "description": "Testing ",
+  "approvers": [
+    {
+      "username": "Lourdes-Santhosh",
+      "status": "pending",
+      "timestamp": null,
+      "comments": null
+    }
+  ],
+  "approvalType": "all"
+}
