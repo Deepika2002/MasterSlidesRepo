@@ -12595,7 +12595,7 @@
       "alignment" : "GENERAL",
       "value" : "State: READY_FOR_P_RECALL_LOOKUP =>; Einzelauftrag markiert, um mit RR suchen EA gefunden zu werden.",
       "borderBottom" : "NONE",
-      "fontColor" : "#000000"
+      "fontColor" : "#FF0000"
     } ],
     "name" : "Tabelle1"
   } ]
