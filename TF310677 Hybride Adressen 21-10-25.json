@@ -4775,7 +4775,7 @@
       "alignment" : "GENERAL",
       "value" : "<AdrLine>Street hybrid AdressLINE</AdrLine>",
       "borderBottom" : "NONE",
-      "fontColor" : "#000000"
+      "fontColor" : "#FF0000"
     }, {
       "col" : 0,
       "underline" : false,
