@@ -7380,7 +7380,7 @@
       "alignment" : "GENERAL",
       "value" : "108970110142",
       "borderBottom" : "NONE",
-      "fontColor" : "#000000"
+      "fontColor" : "#FF0000"
     }, {
       "col" : 3,
       "underline" : false,
